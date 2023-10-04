@@ -1,2 +1,2 @@
-# My-College
-I'm a college student from POLINEMA
+# Welcome
+This is my indoor activity in my beloved blue campus
